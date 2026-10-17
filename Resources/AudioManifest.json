@@ -1,0 +1,77 @@
+{
+  "assets" : [
+    {
+      "bytes" : 353897,
+      "channels" : 2,
+      "duration" : 18.713000000000001,
+      "file" : "ticking.m4a",
+      "name" : "ticking",
+      "sampleRate" : 24000,
+      "sha256" : "6181af00b5fde82e5f951cb1389d19fc4e9ef9302d1c99e95b6da5880ad3f902"
+    },
+    {
+      "bytes" : 226544,
+      "channels" : 2,
+      "duration" : 9.1718820861678001,
+      "file" : "heart-beat.m4a",
+      "name" : "heart-beat",
+      "sampleRate" : 44100,
+      "sha256" : "68ff1486a297de1f03cf22d7efaced01181bf4d9f824b7b0ce9d18ecdbe1a2e5"
+    },
+    {
+      "bytes" : 904410,
+      "channels" : 1,
+      "duration" : 71.093333333333334,
+      "file" : "binaural.m4a",
+      "name" : "binaural",
+      "sampleRate" : 96000,
+      "sha256" : "d7630d1ce92a8c6346be32236f18d10ef5793a8448233134f1c3b52c0ce0f6d7"
+    },
+    {
+      "bytes" : 1003796,
+      "channels" : 2,
+      "duration" : 51.613999999999997,
+      "file" : "relax-music.m4a",
+      "name" : "relax-music",
+      "sampleRate" : 24000,
+      "sha256" : "3d10c48fcfda4a9c694c31aa74e63cb1ecc90de91f144f90aa42da0058833715"
+    },
+    {
+      "bytes" : 8798,
+      "channels" : 2,
+      "duration" : 0.066218750000000007,
+      "file" : "drag-sound.aiff",
+      "name" : "drag-sound",
+      "sampleRate" : 32000,
+      "sha256" : "2bedc76fff5b6f7f31b6656a221ba943a43eb2a7288f5e3f0be0e5bb872b5edc"
+    },
+    {
+      "bytes" : 74914,
+      "channels" : 2,
+      "duration" : 0.84875283446712013,
+      "file" : "pong.aiff",
+      "name" : "pong",
+      "sampleRate" : 22050,
+      "sha256" : "d144cbb5ea1cce8b24a8e544856bfaa9963b0163fd1296c92ddf81e86708ae3d"
+    },
+    {
+      "bytes" : 28650,
+      "channels" : 2,
+      "duration" : 1.6941043083900227,
+      "file" : "funky.m4a",
+      "name" : "funky",
+      "sampleRate" : 44100,
+      "sha256" : "8bb7af81e4434e1bbc7f6ded963e63072479e61be93c4355962f5c0025c313e8"
+    },
+    {
+      "bytes" : 183066,
+      "channels" : 2,
+      "duration" : 5.7208163265306125,
+      "file" : "notification.mp3",
+      "name" : "notification",
+      "sampleRate" : 44100,
+      "sha256" : "ca56aa80bd20bf0219d6e8fb5d475605905fdaac3d9ad688f7eab8c3aa15cb70"
+    }
+  ],
+  "source" : "DeskMinder 2.0.9 installed on this Mac; personal-use audio reference"
+}
